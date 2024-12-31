@@ -137,3 +137,6 @@ Ready to take your web application security to the next level? **Clone the repos
 
 ### **📧 Reach Out**  
 If you encounter any issues or have suggestions for improvement, feel free to **reach out to me**. Your feedback helps make **XSSblitz** better! 🛠️📩
+✨ Want to get in touch?
+🌟 Join our vibrant Telegram community!
+👉 Click here to connect: [Telegram Group](https://t.me/+mzZ9IrWgXe9jNWNl)
